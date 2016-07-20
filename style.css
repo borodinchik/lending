@@ -1,6 +1,4 @@
-body{
-    width: 100%;
-}
+
 
 .header {
     width: 1278px;
@@ -10,6 +8,9 @@ body{
     height: 90px;
     background-image: url(img/header.jpg);
     background-repeat: repeat-x;
+}
+main {
+    margin: auto;
 }
 ul{
     padding-top: 30px;
@@ -56,8 +57,7 @@ p{
 .footer {
     height: 68px;
     width: 100%;
-    background-image: url(img/footer-bg.jpg);
-    background-position: bottom;
+    background-color: #222328;
     background-repeat: repeat-x;
 }
 
